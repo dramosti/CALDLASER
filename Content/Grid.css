@@ -1,0 +1,78 @@
+﻿*
+{
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+.body
+{
+    font: 12px Segoe UI;
+    background-color: #F7F7E9;
+}
+.h1
+{
+    font: bold 32px Times;
+    color: #666;
+    text-align: center;
+    padding: 20px 0;
+}
+#container
+{
+    width: 700px;
+    margin: 10px auto;
+}
+
+.mGrid
+{
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #96A6C5;
+    border-collapse: collapse;
+}
+.mGrid td
+{
+    padding: 2px;
+    border: solid 1px #96A6C5;
+    color: #717171;
+}
+.mGrid th
+{
+    padding: 4px 2px;
+    color: #fff;
+    background: #5A74A8;
+    border-left: solid 1px #96A6C5;
+    font-size: 12px;
+}
+.mGrid .alt
+{
+    background: #fcfcfc url(grd_alt.png) repeat-x top;
+}
+.mGrid .pgr
+{
+    font: 12px Segoe UI;
+    background: #3B5998;
+}
+.mGrid .pgr table
+{
+    margin: 5px 0;
+}
+.mGrid .pgr td
+{
+    border-width: 0;
+    padding: 0 6px;
+    border-left: solid 1px #96A6C5;
+    font-weight: bold;
+    color: #fff;
+    line-height: 12px;
+}
+.mGrid .pgr a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.mGrid .pgr a:hover
+{
+    color: #000;
+    text-decoration: none;
+}
